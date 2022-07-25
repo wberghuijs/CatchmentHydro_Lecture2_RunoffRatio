@@ -1,4 +1,4 @@
-name: base
+name: frontiers_in
 channels:
   - conda-forge
   - defaults
